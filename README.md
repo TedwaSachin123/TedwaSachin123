@@ -1,4 +1,4 @@
-[![MasterHead](./Thinkset_Blockchain.gif)](https://personal-website-green-rho.vercel.app/)
+[![MasterHead](./img.gif)](https://personal-website-green-rho.vercel.app/)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Sachin Tedwa</h1>
 <h3 align="center">A passionate Full-Stack Blockchain developer from Bangalore, India</h3>
 <img align="right" alt="Coding" width="400" src="https://data-science-blog.com/en/wp-content/uploads/sites/4/2020/11/happy-coder.gif">
