@@ -27,9 +27,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hippy___trippy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hippy___trippy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sachin-tedwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-tedwa" height="30" width="40" /></a>
-<a href="https://discord.gg/859514610363924520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="859514610363924520" height="30" width="40" /></a>
+[![Twitter Follow](https://img.shields.io/twitter/follow/Hippy___Trippy.svg?style=social)](https://twitter.com/Hippy___Trippy)
+<a href="https://www.linkedin.com/in/sachin-tedwa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<a href="https://medium.com/@uttamkhanduja"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
+<a href="https://discordapp.com/users/859514610363924520"><img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
