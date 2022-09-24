@@ -1,13 +1,11 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to my GitHub Profile 👨‍💻❤️
-<h1 align="center">Hi 👋, I'm Sachin Tedwa</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Sachin Tedwa</h1>
 <h3 align="center">A passionate Full-Stack Blockchain developer from Bangalore, India</h3>
 <img align="right" alt="Coding" width="400" src="https://data-science-blog.com/en/wp-content/uploads/sites/4/2020/11/happy-coder.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tedwasachin123&label=Profile%20views&color=0e75b6&style=flat" alt="tedwasachin123" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hippy___trippy" target="blank"><img src="https://img.shields.io/twitter/follow/hippy___trippy?logo=twitter&style=for-the-badge" alt="hippy___trippy" /></a> </p>
-## <p><a href="https://uttam-singhh.github.io/Portfolio/">➡️ Check out my website ⚡</a></p>
 
 - 🔭 I’m currently working on [TheGraph](https://block-voice.vercel.app/)
 
