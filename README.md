@@ -25,8 +25,8 @@
 
 - ⚡ Fun fact **I am funny**
 
-<h3 align="left">Connect with me:</h3>
-[![Twitter Follow](https://img.shields.io/twitter/follow/Hippy___Trippy.svg?style=social)](https://twitter.com/Hippy___Trippy)
+## Connect with me 📫:
+[![Twitter Follow](https://img.shields.io/twitter/follow/singhk_uttam.svg?style=social)](https://twitter.com/singhk_uttam)
 <p align="left">
 <a href="https://www.linkedin.com/in/sachin-tedwa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="mailto:tedwasachin123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
