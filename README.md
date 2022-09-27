@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **ZK**
 
-- 👨‍💻 All of my projects are available at [https://personal-website-green-rho.vercel.app/](https://personal-website-green-rho.vercel.app/)
+- 👨‍💻 All of my projects are available at [Personal Portfolio](https://sachintedwa.vercel.app/)
 
 - 📝 I regularly write articles on [bitcointodayprice.com](bitcointodayprice.com)
 
