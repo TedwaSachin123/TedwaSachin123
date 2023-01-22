@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tedwasachin123&label=Profile%20views&color=0e75b6&style=flat" alt="tedwasachin123" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hippy___trippy" target="blank"><img src="https://img.shields.io/twitter/follow/hippy___trippy?logo=twitter&style=for-the-badge" alt="hippy___trippy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Sachintedwa1" target="blank"><img src="https://img.shields.io/twitter/follow/Sachintedwa1?logo=twitter&style=for-the-badge" alt="Sachintedwa1" /></a> </p>
 
 - 🔭 I’m currently working on [TheGraph](https://block-voice.vercel.app/)
 
