@@ -38,8 +38,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sachinted"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sachinted" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tedwasachin123&show_icons=true&locale=en&layout=compact" alt="tedwasachin123" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuko-firelord&show_icons=true&locale=en&layout=compact" alt="zuko-firelord" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tedwasachin123&show_icons=true&locale=en" alt="tedwasachin123" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zuko-firelord&show_icons=true&locale=en" alt="zuko-firelord" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tedwasachin123&" alt="tedwasachin123" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zuko-firelord&" alt="zuko-firelord" /></p>
