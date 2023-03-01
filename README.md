@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Lens Protocol](https://block-voice.vercel.app/)
 
-- 🌱 I’m currently learning **Ceramic**
+- 🌱 I’m currently learning **golang**
 
 - 👯 I’m looking to collaborate on **Polygon**
 
