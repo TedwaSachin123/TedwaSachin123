@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/Sachintedwa1" target="blank"><img src="https://img.shields.io/twitter/follow/Sachintedwa1?logo=twitter&style=for-the-badge" alt="Sachintedwa1" /></a> </p>
 
-- 🔭 I’m currently working on [Lens Protocol](https://block-voice.vercel.app/)
+- 🔭 I’m currently working on [Cosmos SDK](https://block-voice.vercel.app/)
 
 - 🌱 I’m currently learning **golang**
 
