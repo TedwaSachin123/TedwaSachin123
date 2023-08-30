@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Cosmos SDK](https://block-voice.vercel.app/)
 
-- 🌱 I’m currently learning **golang**
+- 🌱 I’m currently learning **rust**
 
 - 👯 I’m looking to collaborate on **Polygon**
 
